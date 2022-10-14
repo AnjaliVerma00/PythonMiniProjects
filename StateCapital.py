@@ -1,4 +1,4 @@
-Gkdict= {"up":"lucknow","uk":"dehradun","punjab":"chandigarh","karnataka":"bangalore"}
+Gkdict= {"up":"lucknow","uk":"dehradun","punjab":"chandigarh","karnataka":"bangalore","goa":"panjim"}
 userinput = ""
 for key,value in Gkdict.items():
     while userinput != 'Exit':
